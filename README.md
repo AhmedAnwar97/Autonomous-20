@@ -21,11 +21,23 @@ git clone
 ```
 cd /path/to/cloned/file
 git add <name_of_file>
-git commit
+git commit -m "messege"
 ```
+**The messege contains what did you commit to the repo**
+
 - In case you needed to remove this commit:
 ```
-git reset --soft HEAD~1
-git commit
+git reset <file-to-be-removed>
+git commit -m "messege"
 ```
-
+- Pushing code into the repo:
+```
+git pull origin master
+git push origin master
+```
+- Open branch and pushing new feature code into it:
+```
+git
+git
+git
+```
