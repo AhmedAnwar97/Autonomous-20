@@ -2,7 +2,7 @@
 This repo is for the Urban Autonomous'20 subteam (ASU Racing team).
 
 ## Instructions:
-**Every member should push any change to the code after taking confirmation from the board and proving that his code is working and working well with the integrated system.**
+**Every member should push any change to the code after taking confirmation from the board and proving that his code is working well within system.**
 - Any code that needs to be enhanced or not working should be submitted to the branch with which it relates.
 - All codes should be written in a profissional way.
 - The codes should Handle every expected exceptions and raise warnings to reduce the time of debugging.
