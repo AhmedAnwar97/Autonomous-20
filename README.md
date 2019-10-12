@@ -3,11 +3,11 @@ This repo is for the Urban Autonomous'20 subteam (ASU Racing team).
 
 ## Instructions:
 **Every member should push any change to the code after taking confirmation from the board and proving that his code is working well within system.**
-- Any code that needs to be enhanced or not working should be submitted to the branch with which it relates.
-- All codes should be written in a profissional way.
-- The codes should Handle every expected exceptions and raise warnings to reduce the time of debugging.
-- The codes should be well-documented and readable.
-- All codes should be written as classes. Functions and big mains will not be accepted.
+- Any codes that need to be enhanced or not working should be submitted to the branch to which it relates.
+- All codes should be written in a profissional way with good sizing and logically-named variables.
+- The codes should handle every expected exceptions and raise warnings to reduce the time of debugging.
+- The codes should be commented and readable.
+- All codes should be written as classes with include files. Functions and big mains will not be accepted.
 
 ## Git:
 
