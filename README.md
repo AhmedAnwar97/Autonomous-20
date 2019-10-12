@@ -14,18 +14,18 @@ This repo is for the Urban Autonomous'20 subteam (ASU Racing team).
 These are some of the useful steps that you will always use with git.
 
 -To clone the current repo you have to just type this command:
-'''
+```
 git clone
-'''
+```
 -To add files to the repo that matches the specs above:
-'''
+```
 cd /path/to/cloned/file
 git add <name_of_file>
 git commit
-'''
+```
 -In case you needed to remove this commit:
-'''
+```
 git reset --soft HEAD~1
 git commit
-'''
+```
 
